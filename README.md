@@ -1,4 +1,4 @@
-h# Eai, tudo bom?
+# Eai, tudo bom?
 <br>
 
 <img src="aaa.gif" align="right">
@@ -33,4 +33,4 @@ objetivo me tornar um profissional full-stacker e atuar na área<br> de Big data
 <br>
 <br>
 
-![Gui Coelho GitHub stats](https://github-readme-stats.vercel.app/api?username=guicoelho-s&show_icons=true&theme=radical)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=guicoelho-s&show_icons=true&theme=radical"></p>
