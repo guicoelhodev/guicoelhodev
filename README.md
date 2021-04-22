@@ -20,7 +20,7 @@ objetivo me tornar um profissional full-stacker e atuar na área de Big data.<br
 <h3 style="color:yellow">Contato 🖋🖊</h3>
 <a href="https://www.linkedin.com/in/guilherme-santos-coelho-1b7036210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/GuiCoelho-S"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="Coelho#9562"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<p><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></p>
 <br>
 <br>
 <br>
