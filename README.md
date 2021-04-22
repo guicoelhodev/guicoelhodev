@@ -5,8 +5,8 @@
 <h2 align="center">Guilherme Coelho</h2>
 <br>
 <h2 style="color:#00D9F8" >Entusiasta na programação de front-end developer</h2> 
-<h4 style="text-align: justify;">Ingressei na área de Tecnologia e informação no início de 2021 atualmente<br> estou aprendendo tecnologias voltadas a programação front-end, porém tenho como 
-objetivo me tornar um profissional full-stacker e atuar na área<br> de Big data.<br><br></h4>
+<h4 style="text-align: justify;">Ingressei na área de Tecnologia e informação no início de 2021 atualmente estou aprendendo tecnologias voltadas a programação front-end, porém tenho como 
+objetivo me tornar um profissional full-stacker e atuar na área de Big data.<br><br></h4>
 <h3 style="color:yellow">Em aprendizado 📚📚</h3>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
