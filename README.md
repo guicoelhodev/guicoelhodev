@@ -4,7 +4,7 @@
 <img src="aaa.gif" align="right">
 <h2 align="center">Guilherme Coelho</h2>
 <br>
-<h2 style="color:#00D9F8" align="center">Entusiasta na programação de front-end developer</h2> 
+<h2 style="color:#00D9F8" align="center">Entusiasta na programação de front-end com ReactJS e futuramente, React Native</h2> 
 <h4 style="text-align: justify;">Ingressei na área de Tecnologia e informação no início de 2021, atualmente estou aprendendo tecnologias voltadas a programação front-end, aprimorando meu CSS com SASS e me aprofundando em JS e ReactJS, sou estudante de Ciência da Computação na São Judas/SP.<br><br></h4>
 <h3 style="color:yellow">Em aprendizado 📚📚</h3>
 
