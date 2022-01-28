@@ -2,9 +2,7 @@
 
 <br>
 
-<center>
-  <img src="./img/frameworks.png" />
-</center>
+<img src="./img/frameworks.png" align="center"/>
 <br>
 <center>
 <span>
@@ -57,9 +55,9 @@
 
 <center>
 
-## " Aquilo que se faz por amor está sempre além do bem e do mal "
-### Friedrich Nietzsche
-</center>
+<h2>" Aquilo que se faz por amor está sempre além do bem e do mal "</h2>
+<h3>Friedrich Nietzsche</h3>
+
 
 <br><br>
 <div>
