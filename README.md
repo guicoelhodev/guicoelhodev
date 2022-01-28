@@ -23,7 +23,7 @@
 
 #### I'm a future full stack web developer, I've loved coding since my high school, I'm probably coding right now. <br>Looking for my first job as a junior front end developer.
 
-<img src="./img/just_guy_coding.png" align="right" height="320"/>
+<img src="./img/just_guy_coding.png" align="right" height="340"/>
 
 
 <br><br><br>
@@ -69,5 +69,6 @@
 </p>
 <br>
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats&theme=omni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoelho-S&layout=compact&langs_count=8"/></a>
-
+</p>
