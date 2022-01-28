@@ -58,17 +58,17 @@
 
 <br><br><br>
 
-<p align="center">
 
-<h2>" Aquilo que se faz por amor está sempre além do bem e do mal "</h2>
-<h3>Friedrich Nietzsche</h3>
+<h2 align="center">" Aquilo que se faz por amor está sempre além do bem e do mal "</h2>
+<h3 align="center">Friedrich Nietzsche</h3>
 
-<p>
+
 
 <br><br>
   
-<img src="https://github-readme-stats.vercel.app/api?username=GuiCoelho-S&show_icons=true&theme=tokyonight" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuiCoelho-S&show_icons=true&theme=tokyonight" align="center"/>
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats&theme=omni"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoelho-S&layout=compact&langs_count=8"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats&theme=omni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoelho-S&layout=compact&langs_count=8"/></a>
 
 </div>
