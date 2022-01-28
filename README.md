@@ -2,9 +2,9 @@
 
 <br>
 
-<div style="text-align:center">
+<p align="center">
 <img src="./img/frameworks.png"/>
-</div>
+</p>
 
 <br>
 
