@@ -8,14 +8,14 @@
 
 <br>
 
-<div style="text-align:center">
+<p align="center">
 <span>
 <a href='https://www.linkedin.com/in/guilherme-santos-coelho-1b7036210/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 </span>
 <span>
 <a href="https://www.instagram.com/g__coelho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </span>
-</div>
+</p>
 
 <br>
 <br>
@@ -58,14 +58,15 @@
 
 <br><br><br>
 
-<center>
+<p align="center">
 
 <h2>" Aquilo que se faz por amor está sempre além do bem e do mal "</h2>
 <h3>Friedrich Nietzsche</h3>
 
+<p>
 
 <br><br>
-<div>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=GuiCoelho-S&show_icons=true&theme=tokyonight" align="left"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats&theme=omni"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoelho-S&layout=compact&langs_count=8"/></a>
