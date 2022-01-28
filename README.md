@@ -2,16 +2,21 @@
 
 <br>
 
-<img src="./img/frameworks.png" align="center"/>
+<div style="text-align:center">
+<img src="./img/frameworks.png"/>
+</div>
+
 <br>
-<center>
+
+<div style="text-align:center">
 <span>
 <a href='https://www.linkedin.com/in/guilherme-santos-coelho-1b7036210/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 </span>
 <span>
 <a href="https://www.instagram.com/g__coelho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </span>
-</center>
+</div>
+
 <br>
 <br>
 
