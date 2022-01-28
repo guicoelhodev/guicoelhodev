@@ -59,7 +59,7 @@
 <br><br><br>
 
 
-<h2 align="center">" Aquilo que se faz por amor está sempre além do bem e do mal "</h2>
+<h2 align="center">" Whatever is done for love always occurs beyond good and evil "</h2>
 <h3 align="center">Friedrich Nietzsche</h3>
 
 <br><br>
