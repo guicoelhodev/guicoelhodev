@@ -48,7 +48,7 @@
 <a href="https://github.com/GuiCoelho-S/ReactMusic" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=ReactMusic&theme=github_dark" />
 </a>
-<a href="https://github.com/GuiCoelho-S/Pokedex-v2-Coelho" target="_blank">
+<a href="https://github.com/GuiCoelho-S/Pokedex-v3" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=Pokedex-v3&theme=github_dark" />
 </a>
 <a href="https://github.com/GuiCoelho-S/Street-Market" target="_blank">
