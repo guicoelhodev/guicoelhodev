@@ -49,7 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=ReactMusic&theme=github_dark" />
 </a>
 <a href="https://github.com/GuiCoelho-S/Pokedex-v2-Coelho" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=POkedex-v2-Coelho&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=Pokedex-v3&theme=github_dark" />
 </a>
 <a href="https://github.com/GuiCoelho-S/Street-Market" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=Street-Market&theme=github_dark" />
