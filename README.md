@@ -3,40 +3,69 @@
 <br>
 
 <p align="center">
-<img src="./img/frameworks.png"/>
+<img src="./img/front_end_languages.png"/>
 </p>
 
 <br>
 
-<p align="center">
-<span>
+<div align="center">
+
+<a href="mailto:gs.coelho_dev@outlook.com" target="_blank" align="center">
+
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 <a href='https://www.linkedin.com/in/guilherme-santos-coelho-1b7036210/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-</span>
-<span>
-<a href="https://www.instagram.com/g__coelho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</span>
-</p>
+</a>
+
+</div>
 
 <br>
 <br>
 
+## I'm Full stack web developer
 
-#### I'm a future full stack web developer, I've loved coding since my high school, I'm probably coding right now. <br>Looking for my first job as a junior front end developer.
+- ### I've coding since my high school and I love building functionality and apps with reactjs and nodejs ecosystem.
+- ### I currently work in an education company creating ERP functionalities and building new applications that help in the daily lives of several children.
+- ### Work on <a href="https://www.instagram.com/escolavereda/" target="_blank">Vereda Educação S.A</a>
 
-<img src="./img/just_guy_coding.png" align="right" height="340"/>
+<br/>
 
+<h2 align="center">Whatever is done for love always occurs beyond good and evil</h2>
+<h3 align="center">Friedrich Nietzsche</h3>
 
-<br><br><br>
+<br/><br/>
+
+<div>
+<img src="./img/background_projects.png" align="right" height="440"/>
+
+<br/>
 
 ## Educational background 📒
 
-<br>
+<br/>
 
-* Computer Science Student at São Judas Tadeu
-* Front end developer by Alura & Rocketseat
+- Computer Science Student at São Judas Tadeu (4º period)
+- Front end developer by Alura & Rocketseat
 
-<br><br><br><br><br><br>
+<br/>
 
+## Goals in my carreer 🚀
+
+<br/>
+
+- Work as a mid-level react front end developer
+- Work for foreign companies
+
+<br/>
+
+<br/>
+
+</div>
+
+<br/><br/><br/><br/><br/></br><br/>
+
+<br/>
+</div>
 <h2 align="center">Best projects</h2>
 
 <br>
@@ -51,24 +80,25 @@
 <a href="https://github.com/GuiCoelho-S/Pokedex-v3" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=Pokedex-v3&theme=github_dark" />
 </a>
-<a href="https://github.com/GuiCoelho-S/Street-Market" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=Street-Market&theme=github_dark" />
-</a>
 </div>
 
-<br><br><br>
+<br/>
+<h2 align="center"> React Ecosystem ⚛</h2>️
 
+<div align="center">
 
-<h2 align="center">" Whatever is done for love always occurs beyond good and evil "</h2>
-<h3 align="center">Friedrich Nietzsche</h3>
+| frameworks | style-system      | state-managment | Others        |
+| ---------- | ----------------- | --------------- | ------------- |
+| React JS   | Material UI       | React Query     | Vitest        |
+| Next       | Styled components | Jotai           | Framer motion |
+| Node       | Prime react       | Context API     |               |
+| Firebase   | Radix             | Redux           |               |
 
-<br><br>
+</div>
+<br/>
 
+<br/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GuiCoelho-S&show_icons=true&theme=tokyonight" align="center"/>
 </p>
 <br>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats&theme=omni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoelho-S&layout=compact&langs_count=8"/></a>
-</p>
