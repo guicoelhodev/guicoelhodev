@@ -53,15 +53,11 @@
 - Work as a mid-level react front end developer
 - Work for foreign companies
 
-<br/>
-
-<br/>
-
 </div>
 
-<br/><br/>
-
 <br/>
+<br/>
+
 </div>
 <h2 align="center">Best projects</h2>
 
