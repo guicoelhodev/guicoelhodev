@@ -30,13 +30,10 @@
 
 <br/>
 
-<h2 align="center">Whatever is done for love always occurs beyond good and evil</h2>
-<h3 align="center">Friedrich Nietzsche</h3>
-
 <br/><br/>
 
 <div>
-<img src="./img/background_projects.png" align="right" height="440"/>
+<img src="./img/background_projects.png" align="right" width="380px"/>
 
 <br/>
 
@@ -62,7 +59,7 @@
 
 </div>
 
-<br/><br/><br/><br/><br/></br><br/>
+<br/><br/>
 
 <br/>
 </div>
