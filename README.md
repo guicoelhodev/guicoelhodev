@@ -65,13 +65,13 @@
 
 <div align="center">
 <a href="https://github.com/guicoelhodev/BoostYourself" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=BoostYourself&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guicoelhodev-S&repo=BoostYourself&theme=github_dark" />
 </a>
 <a href="https://github.com/guicoelhodev/ReactMusic" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=ReactMusic&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guicoelhodev-S&repo=ReactMusic&theme=github_dark" />
 </a>
 <a href="https://github.com/guicoelhodev/Pokedex-v3" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiCoelho-S&repo=Pokedex-v3&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guicoelhodev-S&repo=Pokedex-v3&theme=github_dark" />
 </a>
 </div>
 
