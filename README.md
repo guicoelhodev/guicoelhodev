@@ -22,7 +22,7 @@
 <br>
 <br>
 
-## I'm Full stack web developer
+## I'm web developer
 
 - ### I've coding since my high school and I love building functionality and apps with reactjs and nodejs ecosystem.
 - ### I currently work in an education company creating ERP functionalities and building new applications that help in the daily lives of several children.
@@ -32,8 +32,10 @@
 
 <br/><br/>
 
-<div>
-<img src="./img/background_projects.png" align="right" width="380px"/>
+<center>
+<img src="./img/projects.png" align="center" width="880px" style="border-radius: 12px"/>
+
+</center>
 
 <br/>
 
@@ -53,30 +55,14 @@
 - Work as a mid-level react front end developer
 - Work for foreign companies
 
-</div>
+</center>
 
 <br/>
 <br/>
 
 </div>
-<h2 align="center">Best projects</h2>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/guicoelhodev/BoostYourself" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guicoelhodev-S&repo=BoostYourself&theme=github_dark" />
-</a>
-<a href="https://github.com/guicoelhodev/ReactMusic" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guicoelhodev-S&repo=ReactMusic&theme=github_dark" />
-</a>
-<a href="https://github.com/guicoelhodev/Pokedex-v3" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guicoelhodev-S&repo=Pokedex-v3&theme=github_dark" />
-</a>
-</div>
-
 <br/>
-<h2 align="center"> React Ecosystem ⚛</h2>️
+<h2 align="center"> Web Ecosystem ⚛</h2>️
 
 <div align="center">
 
@@ -84,8 +70,8 @@
 | ---------- | ----------------- | --------------- | ------------- |
 | React JS   | Material UI       | React Query     | Vitest        |
 | Next       | Styled components | Jotai           | Framer motion |
-| Node       | Prime react       | Context API     |               |
-| Firebase   | Radix             | Redux           |               |
+| Node       | Prime react       | Context API     | Nuxt JS       |
+| Firebase   | Radix             | Redux           | Tailwind      |
 
 </div>
 <br/>
