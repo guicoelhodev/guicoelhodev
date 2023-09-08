@@ -33,7 +33,7 @@
 <br/><br/>
 
 <center>
-<img src="./img/projects.png" align="center" width="880px" style="border-radius: 12px"/>
+<img src="./img/project.svg" align="center" width="100%" style="border-radius: 12px"/>
 
 </center>
 
