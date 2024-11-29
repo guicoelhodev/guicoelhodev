@@ -1,83 +1,150 @@
-<h2>Hi there, I'm Guilherme Coelho</h2>
+<main>
 
-<br>
+<h1 align='center'>
+    <i>
+        No matter where you are, <br/> always do the job well
+    </i>
+</h1>
 
-<p align="center">
-<img src="./img/front_end_languages.png"/>
-</p>
+<section>
+    <h3>
+        Hello guys, I'm <b>Guilherme Coelho</b>
+    </h3>
 
-<br>
+I'm working as <b>frontend developer since 2022</b> and I love building and create new things using programming tools
 
-<div align="center">
+</section>
 
-<a href="mailto:gs.coelho_dev@outlook.com" target="_blank" align="center">
-
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-<a href='https://www.linkedin.com/in/guilherme-santos-coelho-1b7036210/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-</a>
-
-</div>
-
-<br>
-<br>
-
-## I'm web developer
-
-- ### I've coding since my high school and I love building functionality and apps with reactjs and nodejs ecosystem.
-- ### I currently work in an education company creating ERP functionalities and building new applications that help in the daily lives of several children.
-- ### Work on <a href="https://www.instagram.com/escolavereda/" target="_blank">Vereda Educação S.A</a>
+<section>
+    <h3>📨 Contact with me on LinkedIn and let's talk</h3>
+    <a 
+        href='https://www.linkedin.com/in/guilherme-santos-coelho-1b7036210/'
+        target='_blank'>
+            <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
+</section>
 
 <br/>
 
-<br/><br/>
+<section>
+    <h3>🔎 Latest projects</h3>
 
-<center>
-<img src="./img/project.svg" align="center" width="100%" style="border-radius: 12px"/>
+- <a href='https://react-music-xi.vercel.app/' target='_blank'>React Music</a>
+- <a href='https://pokedex-v3.vercel.app/' target='_blank'>Pokedex</a>
+- <a href='https://discord-clone-guicoelhodev.vercel.app/' target='_blank'>Discord homepage</a>
 
-</center>
-
-<br/>
-
-## Educational background 📒
+</section>
 
 <br/>
 
-- Computer Science Student at São Judas Tadeu (4º period)
-- Front end developer by Alura & Rocketseat
+<section>
+    <h3>💻 Daily development tools</h3>
+    <article>
+        <img 
+            alt='arch_linux' 
+            height='25' 
+            src='https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square'
+        />
+        <img 
+            alt='Neovim'
+            height='25'
+            src='https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square' 
+        />
+        <img  
+            alt='hyprland'
+            height='25'
+            src='https://img.shields.io/badge/Hyprland-58E1FF?logo=hyprland&logoColor=000&style=for-the-badge' 
+        />
+        <img 
+            alt='tmux'
+            height='25'
+            src='https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=flat-square' 
+        />
+        <img 
+            alt="Amazon Web Services Badge"
+            height='25'
+            src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat-square" 
+        />
+    </article>
+
+</section>
 
 <br/>
 
-## Goals in my carreer 🚀
+<section>
+    <h3>🛠️ Technical skills</h3>
+    <article>
+        <img
+            alt='nextjs'
+            height='25'
+            src='https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square' 
+        />
+        <img
+            alt='svelte'
+            height='25'
+            src='https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat-square' 
+        />
+        <img 
+            alt='angular'
+            height='25'
+            src='https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat-square' 
+        />
+        <img
+            alt='nodejs'
+            height='25'
+            src='https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square' 
+        />
+        <img 
+            alt='typescript'
+            height='25'
+            src='https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square' 
+        />
+    </article>
+</section>
 
 <br/>
 
-- Work as a mid-level react front end developer
-- Work for foreign companies
+<section>
+<h2>📌 Working experience</h2>
 
-</center>
+<h3>Fullstack freelancer developer</h3>
 
-<br/>
-<br/>
+- 2024/fev ~ current
 
-</div>
-<br/>
-<h2 align="center"> Web Ecosystem ⚛</h2>️
+<article>
 
-<div align="center">
+| Enterprise  | Tools                                          | Short description                                                                        |
+|-------------|------------------------------------------------|------------------------------------------------------------------------------------------|
+|      My own |  React native, next js, node, angular, svelte  | Working as a freelancer, responsible for creating applications from design to completion |
 
-| frameworks | style-system      | state-managment | Others        |
-| ---------- | ----------------- | --------------- | ------------- |
-| React JS   | Material UI       | React Query     | Vitest        |
-| Next       | Styled components | Jotai           | Framer motion |
-| Node       | Prime react       | Context API     | Nuxt JS       |
-| Firebase   | Radix             | Redux           | Tailwind      |
-
-</div>
-<br/>
+</article>
 
 <br/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=guicoelhodev&show_icons=true&theme=tokyonight" align="center"/>
-</p>
-<br>
+
+<article>
+
+<h3>Mid level frontend developer</h3>
+
+- 2023/jun ~ current
+
+| Enterprise             | Tools                          | Short description                                                                                                                                                                                    |
+|------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      Vereda Educacação |  Azure, git, docker, pipelines | In addition to developing features, I was responsible for managing the deployments of all the company's projects, creating new approaches such as using Docker and pipeline to optimize the process |
+
+</article>
+
+<br/>
+
+<article>
+
+<h3>Júnior frontend developer</h3>
+
+- 2022/mar ~ 2023/jun
+
+| Enterprise             | Tools                               | Short description                                                                                                                                                           |
+|------------------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      Vereda Educacação |  Nextjs, Angular, React, Typescript | Here I worked developing features in React and Angular in the company's main system, integrating with web sockets and other services to provide new tools for others sectors |
+
+</article>
+</section>
+
