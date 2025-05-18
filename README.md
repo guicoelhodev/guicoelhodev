@@ -29,6 +29,7 @@ I'm working as <b>frontend developer since 2022</b> and I love building and crea
 <section>
     <h3>🔎 Latest projects</h3>
 
+- <a href='https://radio.guicoelhodev.com/' target='_blank'>Pomodoro radio</a>
 - <a href='https://react-music-xi.vercel.app/' target='_blank'>React Music</a>
 - <a href='https://pokedex-v3.vercel.app/' target='_blank'>Pokedex</a>
 - <a href='https://discord-clone-guicoelhodev.vercel.app/' target='_blank'>Discord homepage</a>
