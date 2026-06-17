@@ -18,7 +18,7 @@ I'm working as <b>frontend developer since 2022</b> and I love building and crea
 <section>
     <h3>📨 Contact with me on LinkedIn and let's talk</h3>
     <a 
-        href='https://www.linkedin.com/in/guilherme-santos-coelho-1b7036210/'
+        href='https://www.linkedin.com/in/guicoelhodev/'
         target='_blank'>
             <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
@@ -29,10 +29,11 @@ I'm working as <b>frontend developer since 2022</b> and I love building and crea
 <section>
     <h3>🔎 Latest projects</h3>
 
-- <a href='https://radio.guicoelhodev.com/' target='_blank'>Pomodoro radio</a>
-- <a href='https://react-music-xi.vercel.app/' target='_blank'>React Music</a>
-- <a href='https://pokedex-v3.vercel.app/' target='_blank'>Pokedex</a>
-- <a href='https://discord-clone-guicoelhodev.vercel.app/' target='_blank'>Discord homepage</a>
+- <a href='https://craft.gscoelho.com/' target='_blank'>Svelte Craft</a>
+- <a href='https://personal-notes-amber.vercel.app/' target='_blank'>Personal notes</a>
+- <a href='https://radio.gscoelho.com/' target='_blank'>Pomodoro Lofi</a>
+- <a href='https://music.gscoelho.com' target='_blank'>React Music</a>
+- <a href='https://pokedex.gscoelho.com/' target='_blank'>Pokedex</a>
 
 </section>
 
@@ -148,4 +149,3 @@ I'm working as <b>frontend developer since 2022</b> and I love building and crea
 
 </article>
 </section>
-
