@@ -29,8 +29,8 @@ I'm working as <b>frontend developer since 2022</b> and I love building and crea
 <section>
     <h3>🔎 Latest projects</h3>
 
+- <a href='https://art.gscoelho.com/' target='_blank'>World Art timeline</a>
 - <a href='https://craft.gscoelho.com/' target='_blank'>Svelte Craft</a>
-- <a href='https://personal-notes-amber.vercel.app/' target='_blank'>Personal notes</a>
 - <a href='https://radio.gscoelho.com/' target='_blank'>Pomodoro Lofi</a>
 - <a href='https://music.gscoelho.com' target='_blank'>React Music</a>
 - <a href='https://pokedex.gscoelho.com/' target='_blank'>Pokedex</a>
